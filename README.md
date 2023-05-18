@@ -1,4 +1,4 @@
-# Sentiment Analysis Methods (SAMs)
+# Sentiment Classification (SAMCs)
 ### By: Neha Gogate
 
 # Description
