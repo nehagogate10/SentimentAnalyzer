@@ -2,7 +2,7 @@
 ### By: Neha Gogate
 
 # Description
-Implementation of a binary sentiment analyzer that automatically classifies input text as portraying either positive or negative sentiment.
+A binary sentiment analyzer that automatically classifies input text as portraying either positive or negative sentiment.
 
 ### baseline_BoW.ipynb
 As my baseline system, I utilized the bag of words (BoW) model. After looping through all the texts in the folder, my preprocessing techniques consisted of removing punctuation and making the text data lowercase. I utilized CountVectorizer, and then I calculated this model's f1, precision, recall, and accuracy with the Gaussian Naive Bayes classifier. 
