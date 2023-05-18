@@ -1,4 +1,4 @@
-# LING 406 Term Project: Sentiment Analysis Methods (TPSAMs)
+# Sentiment Analysis Methods (SAMs)
 ### By: Neha Gogate
 
 # Description
