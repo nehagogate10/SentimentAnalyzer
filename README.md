@@ -1,4 +1,4 @@
-# Sentiment Classification (SAMCs)
+# Sentiment Classification
 ### By: Neha Gogate
 
 # Description
